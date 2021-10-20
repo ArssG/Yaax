@@ -1,0 +1,6 @@
+com/arssg/proyecto_odisea_xxi/BuildConfig.java
+ com.arssg.proyecto_odisea_xxi.BuildConfig
+com/arssg/proyecto_odisea_xxi/databinding/ActivityPantallaMenuBinding.java
+ com.arssg.proyecto_odisea_xxi.databinding.ActivityPantallaMenuBinding
+com/arssg/proyecto_odisea_xxi/pantalla_menu.java
+ com.arssg.proyecto_odisea_xxi.pantalla_menu

@@ -126,6 +126,7 @@
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="@dimen/loginViewsMargin"
                         android:text="Registrarse"
+                        android:onClick="btnSingUp"
                         app:initialCornerAngle="27dp"
                         app:spinning_bar_color="#FFF"
                         app:spinning_bar_padding="6dp"
@@ -133,6 +134,7 @@
 
                     <TextView
                         style="@style/parent"
+                        android:id="@+id/signInRegister"
                         android:layout_marginTop="@dimen/loginViewsMargin"
                         android:onClick="onRegisterClick"
                         android:text="¿Ya tienes una cuenta?"

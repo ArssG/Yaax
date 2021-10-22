@@ -8,6 +8,10 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mapa.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_mapa.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pantalla_menu.xml",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_pantalla_menu.xml"
     }

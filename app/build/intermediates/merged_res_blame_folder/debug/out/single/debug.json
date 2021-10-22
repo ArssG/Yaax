@@ -68,12 +68,16 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background_blue.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\drawable\\button_background_blue.xml"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mapa.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_mapa.xml"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_message.png.flat",
@@ -148,12 +152,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_img.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_message.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
@@ -196,12 +200,12 @@
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
-        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
-    },
-    {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
     },
     {
         "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_yaax.png.flat",

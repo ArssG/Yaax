@@ -1,14 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_consejos.xml",
-        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_consejos.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pantalla_menu.xml",
-        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_pantalla_menu.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_perfil.xml",
-        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_perfil.xml"
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mapa.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pantalla_menu.xml",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\src\\main\\res\\layout\\activity_pantalla_menu.xml"
     }
 ]

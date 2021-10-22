@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".consejos">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="347dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="16dp"
+        android:elevation="3dp"
+        app:itemIconSize="30dp"
+        app:itemIconTint="@drawable/item_selector"
+        app:itemRippleColor="@android:color/transparent"
+        app:labelVisibilityMode="unlabeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_navigation">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_margin="15dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/borders"
+        android:backgroundTint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="347dp"
+            android:layout_height="45dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:text="Consejos"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textFontWeight="700"
+            android:textSize="35dp" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="350dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="21dp"
+        android:text="Como cuidar el medio ambiente"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="350dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="21dp"
+        android:text="Como reciclar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button4" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="350dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="21dp"
+        android:text="Basura no Biodegradable"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button7" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="350dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="21dp"
+        android:text="Compostas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button6" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="350dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="21dp"
+        android:text="Separacion de residuos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button5" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -12,6 +12,10 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
     },
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borders.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\drawable\\borders.xml"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
     },
@@ -48,12 +52,12 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\mipmap-mdpi\\b1.png"
     },
     {
-        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person2.png.flat",
@@ -74,6 +82,10 @@
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_message.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_message.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic2_yaax.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic2_yaax.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -90,6 +102,10 @@
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -132,12 +148,24 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
     },
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_consejos.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_consejos.xml"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\drawable\\splash_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_perfil.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_perfil.xml"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_message.xml.flat",
@@ -176,6 +204,10 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person2.xml"
     },
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_map.png"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
     },
@@ -198,6 +230,10 @@
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
@@ -224,8 +260,16 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_pantalla_menu.xml"
     },
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_abdel.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\mipmap-xxhdpi\\abdel.png"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\drawable\\gradient.xml"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
@@ -238,6 +282,10 @@
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
@@ -256,8 +304,16 @@
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_map.xml.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_map.xml"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_map.png"
     },
     {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",

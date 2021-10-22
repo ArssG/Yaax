@@ -11,37 +11,52 @@
 9-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:5-18:19
+11-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.5.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\e4e60fa01183f8bb008117a464bbdf63\core-1.5.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:7:9-43
+15        android:icon="@mipmap/ic2_yaax"
+15-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:7:9-40
 16        android:label="@string/app_name"
 16-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:8:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:9:9-54
-18        android:supportsRtl="true"
-18-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.Proyecto_Odisea_XXI" >
-20-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:11:9-57
-21        <activity android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu" >
-21-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:12:9-17:20
-21-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:12:19-48
-22            <intent-filter>
-22-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:13:13-16:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:14:17-68
-23-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:15:17-76
-25-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:15:27-74
-26            </intent-filter>
+17        android:supportsRtl="true"
+17-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true"
+19        android:theme="@style/Theme.Proyecto_Odisea_XXI" >
+19-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:10:9-57
+20        <activity
+20-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:11:9-13:20
+21            android:name="com.arssg.proyecto_odisea_xxi.perfil"
+21-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:11:19-41
+22            android:screenOrientation="portrait" >
+22-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:12:13-49
+23        </activity>
+24        <activity
+24-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:14:9-17:20
+25            android:name="com.arssg.proyecto_odisea_xxi.consejos"
+25-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:15:13-37
+26            android:screenOrientation="portrait" >
+26-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:16:13-49
 27        </activity>
-28    </application>
-29
-30</manifest>
+28        <activity
+28-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:18:9-26:20
+29            android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu"
+29-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:19:13-42
+30            android:screenOrientation="portrait" >
+30-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:20:13-49
+31            <intent-filter>
+31-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:24:17-77
+34-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>

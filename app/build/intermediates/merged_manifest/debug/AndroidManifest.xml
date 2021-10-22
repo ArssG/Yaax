@@ -12,13 +12,22 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic2_yaax"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Proyecto_Odisea_XXI" >
-        <activity android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu" >
+        <activity
+            android:name="com.arssg.proyecto_odisea_xxi.perfil"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.arssg.proyecto_odisea_xxi.consejos"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

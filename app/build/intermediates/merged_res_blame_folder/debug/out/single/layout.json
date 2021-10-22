@@ -1,6 +1,14 @@
 [
     {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_consejos.xml",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_consejos.xml"
+    },
+    {
         "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pantalla_menu.xml",
         "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_pantalla_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_perfil.xml",
+        "source": "C:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\src\\main\\res\\layout\\activity_perfil.xml"
     }
 ]

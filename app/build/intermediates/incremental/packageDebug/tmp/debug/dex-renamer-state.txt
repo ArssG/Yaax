@@ -1,4 +1,4 @@
-#Thu Oct 21 16:31:55 CDT 2021
-base.0=C\:\\Users\\user\\AndroidStudioProjects\\Yaax\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat Oct 23 19:00:35 CDT 2021
+base.0=C\:\\Users\\arssg\\AndroidStudioProjects\\Proyecto_Odisea_XXI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

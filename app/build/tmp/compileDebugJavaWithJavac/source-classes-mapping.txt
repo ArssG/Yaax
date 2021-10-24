@@ -1,16 +1,39 @@
+com/arssg/proyecto_odisea_xxi/MapaActivity.java
+ com.arssg.proyecto_odisea_xxi.MapaActivity
 com/arssg/proyecto_odisea_xxi/BuildConfig.java
  com.arssg.proyecto_odisea_xxi.BuildConfig
-com/arssg/proyecto_odisea_xxi/databinding/ActivityRegisterBinding.java
- com.arssg.proyecto_odisea_xxi.databinding.ActivityRegisterBinding
+com/arssg/proyecto_odisea_xxi/databinding/ActivityPerfilBinding.java
+ com.arssg.proyecto_odisea_xxi.databinding.ActivityPerfilBinding
 com/arssg/proyecto_odisea_xxi/databinding/ActivityLoginBinding.java
  com.arssg.proyecto_odisea_xxi.databinding.ActivityLoginBinding
+com/arssg/proyecto_odisea_xxi/databinding/ActivityMapaBinding.java
+ com.arssg.proyecto_odisea_xxi.databinding.ActivityMapaBinding
 com/arssg/proyecto_odisea_xxi/databinding/ActivityPantallaMenuBinding.java
  com.arssg.proyecto_odisea_xxi.databinding.ActivityPantallaMenuBinding
 com/arssg/proyecto_odisea_xxi/DBHelper.java
  com.arssg.proyecto_odisea_xxi.DBHelper
+com/arssg/proyecto_odisea_xxi/RegisterActivity.java
+ com.arssg.proyecto_odisea_xxi.RegisterActivity
+com/arssg/proyecto_odisea_xxi/databinding/ActivityRegisterBinding.java
+ com.arssg.proyecto_odisea_xxi.databinding.ActivityRegisterBinding
+com/arssg/proyecto_odisea_xxi/databinding/ActivityConsejosBinding.java
+ com.arssg.proyecto_odisea_xxi.databinding.ActivityConsejosBinding
 com/arssg/proyecto_odisea_xxi/LoginActivity.java
  com.arssg.proyecto_odisea_xxi.LoginActivity
 com/arssg/proyecto_odisea_xxi/pantalla_menu.java
  com.arssg.proyecto_odisea_xxi.pantalla_menu
-com/arssg/proyecto_odisea_xxi/RegisterActivity.java
- com.arssg.proyecto_odisea_xxi.RegisterActivity
+ com.arssg.proyecto_odisea_xxi.pantalla_menu$1
+ com.arssg.proyecto_odisea_xxi.pantalla_menu$2
+ com.arssg.proyecto_odisea_xxi.pantalla_menu$3
+ com.arssg.proyecto_odisea_xxi.pantalla_menu$4
+com/arssg/proyecto_odisea_xxi/perfil.java
+ com.arssg.proyecto_odisea_xxi.perfil
+ com.arssg.proyecto_odisea_xxi.perfil$1
+com/arssg/proyecto_odisea_xxi/consejos.java
+ com.arssg.proyecto_odisea_xxi.consejos
+ com.arssg.proyecto_odisea_xxi.consejos$1
+ com.arssg.proyecto_odisea_xxi.consejos$2
+ com.arssg.proyecto_odisea_xxi.consejos$3
+ com.arssg.proyecto_odisea_xxi.consejos$4
+ com.arssg.proyecto_odisea_xxi.consejos$5
+ com.arssg.proyecto_odisea_xxi.consejos$6

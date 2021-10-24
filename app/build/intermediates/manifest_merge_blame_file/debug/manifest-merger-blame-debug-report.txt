@@ -6,80 +6,162 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml
+8-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml
+9-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:5:5-66
-11-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:6:5-78
-12-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:6:22-76
+12-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.VIBRATE" />
-13-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:7:5-65
-13-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:7:22-63
+13-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:7:5-66
+13-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:7:22-63
 14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:8:5-80
-14-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:8:22-78
+14-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:8:22-78
 15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-15-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:9:5-74
-15-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:9:22-72
+15-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:9:5-75
+15-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:9:22-72
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:10:5-79
-16-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:10:22-77
-17
-18    <application
-18-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:12:5-38:19
-19        android:allowBackup="true"
-19-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:13:9-35
-20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.5.0] C:\Users\user\.android\caches\transforms-2\files-2.1\e4e60fa01183f8bb008117a464bbdf63\core-1.5.0\AndroidManifest.xml:24:18-86
-21        android:debuggable="true"
-22        android:icon="@mipmap/ic_launcher"
-22-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:14:9-43
-23        android:label="@string/app_name"
-23-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:15:9-41
-24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:16:9-54
-25        android:supportsRtl="true"
-25-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:17:9-35
-26        android:testOnly="true"
-27        android:theme="@style/Theme.Proyecto_Odisea_XXI" >
-27-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:18:9-57
-28        <activity
-28-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:21:9-24:58
-29            android:name="com.arssg.proyecto_odisea_xxi.RegisterActivity"
-29-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:22:13-45
-30            android:exported="true"
-30-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:23:13-36
-31            android:theme="@style/AppTheme.NoActionBar" />
-31-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:24:13-56
-32        <activity
-32-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:25:9-30:20
-33            android:name="com.arssg.proyecto_odisea_xxi.LoginActivity"
-33-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:26:13-42
-34            android:exported="true"
-34-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:27:13-36
-35            android:theme="@style/AppTheme.NoActionBar" >
-35-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:28:13-56
-36
-37            <!-- Aquí va el Launcher -->
-38        </activity>
-39        <activity android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu" >
-39-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:31:9-37:20
-39-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:31:19-48
-40            <intent-filter>
-40-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:32:13-36:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:33:17-69
-41-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:33:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:35:17-77
-43-->C:\Users\user\AndroidStudioProjects\Yaax\app\src\main\AndroidManifest.xml:35:27-74
-44            </intent-filter>
-45        </activity>
-46    </application>
-47
-48</manifest>
+16-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:10:5-80
+16-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:10:22-77
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:11:5-78
+17-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:12:5-80
+18-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:5-67
+19-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:5:22-64
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+24
+25    <queries>
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+26
+27        <!-- Needs to be explicitly declared on Android R+ -->
+28        <package android:name="com.google.android.apps.maps" />
+28-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+28-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+29    </queries>
+30
+31    <application
+31-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:15:5-54:19
+32        android:allowBackup="true"
+32-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:16:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.5.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\e4e60fa01183f8bb008117a464bbdf63\core-1.5.0\AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic2_yaax"
+35-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:17:9-40
+36        android:label="@string/app_name"
+36-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:18:9-41
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:19:9-54
+38        android:supportsRtl="true"
+38-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:20:9-35
+39        android:testOnly="true"
+40        android:theme="@style/Theme.Proyecto_Odisea_XXI" >
+40-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:21:9-57
+41        <meta-data
+41-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:22:9-99
+42            android:name="com.google.android.geo.API_KEY"
+42-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:22:20-65
+43            android:value="@string/map_key" />
+43-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:22:66-97
+44
+45        <activity
+45-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:24:9-26:39
+46            android:name="com.arssg.proyecto_odisea_xxi.MapaActivity"
+46-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:25:13-41
+47            android:exported="true" />
+47-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:26:13-36
+48        <activity
+48-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:27:9-31:59
+49            android:name="com.arssg.proyecto_odisea_xxi.RegisterActivity"
+49-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:28:13-45
+50            android:exported="true"
+50-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:30:13-36
+51            android:screenOrientation="portrait"
+51-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:29:13-49
+52            android:theme="@style/AppTheme.NoActionBar" />
+52-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:31:13-56
+53        <activity
+53-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:32:9-39:20
+54            android:name="com.arssg.proyecto_odisea_xxi.pantalla_menu"
+54-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:33:13-42
+55            android:exported="true"
+55-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:35:13-36
+56            android:screenOrientation="portrait"
+56-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:34:13-49
+57            android:theme="@style/AppTheme.NoActionBar" >
+57-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:36:13-56
+58
+59            <!-- Aquí va el Launcher -->
+60        </activity>
+61        <activity
+61-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:40:9-42:20
+62            android:name="com.arssg.proyecto_odisea_xxi.perfil"
+62-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:40:19-41
+63            android:screenOrientation="portrait" >
+63-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:41:13-49
+64        </activity>
+65        <activity
+65-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:43:9-45:20
+66            android:name="com.arssg.proyecto_odisea_xxi.consejos"
+66-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:43:19-43
+67            android:screenOrientation="portrait" >
+67-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:44:13-49
+68        </activity>
+69        <activity
+69-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:46:9-53:20
+70            android:name="com.arssg.proyecto_odisea_xxi.LoginActivity"
+70-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:46:19-48
+71            android:screenOrientation="portrait" >
+71-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:47:13-49
+72            <intent-filter>
+72-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:48:13-52:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:49:17-69
+73-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:49:25-66
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:51:17-77
+75-->C:\Users\arssg\AndroidStudioProjects\Proyecto_Odisea_XXI\app\src\main\AndroidManifest.xml:51:27-74
+76            </intent-filter>
+77        </activity>
+78        <!-- Needs to be explicitly declared on P+ -->
+79        <uses-library
+79-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+80            android:name="org.apache.http.legacy"
+80-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+81            android:required="false" />
+81-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\d0d3ea997a51a0e706bb11472925d7dc\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\9b0f04c6b687fa5341d5db6d774190f8\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\9b0f04c6b687fa5341d5db6d774190f8\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\9b0f04c6b687fa5341d5db6d774190f8\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\9b0f04c6b687fa5341d5db6d774190f8\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+87
+88        <meta-data
+88-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\b8901ff22431b37c5d595aaefd1474f4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+89            android:name="com.google.android.gms.version"
+89-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\b8901ff22431b37c5d595aaefd1474f4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+90            android:value="@integer/google_play_services_version" />
+90-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\arssg\.gradle\caches\transforms-2\files-2.1\b8901ff22431b37c5d595aaefd1474f4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+91    </application>
+92
+93</manifest>
